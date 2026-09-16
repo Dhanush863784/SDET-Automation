@@ -19,9 +19,7 @@ The website was selected because it provides simple and well-defined flows suita
 
 - JavaScript
 - Playwright
-- Node.js
 - Claude
-- Chromium
 - Git & GitHub
 
 ## Claude Skill
